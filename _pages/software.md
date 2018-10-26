@@ -11,7 +11,7 @@ All software is currently under active development. Releases are not yet availab
 ## libaudio
 {: style="margin-top: 10px"}
 
-Wraps `ffmpeg` and `ffprobe` and provides `fsutils`.
+Library for manipulation of audio files.
 
 [Source](https://github.com/jamlib/libaudio "libaudio"){: target="_blank"}
 
