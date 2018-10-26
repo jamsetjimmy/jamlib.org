@@ -13,7 +13,7 @@ All software is currently under active development. Releases are not yet availab
 
 Library for manipulation of audio files.
 
-[Source](https://github.com/jamlib/libaudio "libaudio"){: target="_blank"}
+[Learn more](libaudio "Learn more about libaudio") \| [View source](https://github.com/jamlib/libaudio "View source code for libaudio"){: target="_blank"}
 
 ---
 
@@ -22,7 +22,7 @@ Library for manipulation of audio files.
 
 Clean up audio collection setting meta tags & embedding artwork.
 
-[Source](https://github.com/jamlib/audioc "audioc"){: target="_blank"}
+[View source](https://github.com/jamlib/audioc "View source code for audioc"){: target="_blank"}
 
 ---
 
@@ -31,7 +31,7 @@ Clean up audio collection setting meta tags & embedding artwork.
 
 Synchronize audio collection among group of individuals.
 
-[Source](https://github.com/jamlib/ssync "ssync"){: target="_blank"}
+[View source](https://github.com/jamlib/ssync "View source code for ssync"){: target="_blank"}
 
 ---
 
@@ -40,5 +40,5 @@ Synchronize audio collection among group of individuals.
 
 Download lossless, transcode to mp3, embed album artwork, & tag audio from The Internet Archive.
 
-[Source](https://github.com/jamlib/tia-audio "tia-audio"){: target="_blank"}
+[View source](https://github.com/jamlib/tia-audio "View source code for tia-audio"){: target="_blank"}
 

@@ -30,3 +30,8 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
+
+collections:
+  software:
+    output: true
+    permalink: /:collection/:name
