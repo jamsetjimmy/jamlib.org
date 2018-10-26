@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+  	<p style="font-size: smaller"><a href="{{ "/software" | relative_url }}">Software</a> > {{ page.title }}</p>
+    <hr><br>
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+  	<p>{{ page.desc }}</p>
+  	<p><a href="{{ page.src }}" title="View source for {{ page.title }}" target="_blank">View source</a></p>
+    {{ content }}
+  </div>
+
+</article>

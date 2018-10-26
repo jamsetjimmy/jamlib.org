@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: software
+title: libaudio
+desc: "Library for manipulation of audio files"
+src: https://github.com/jamlib/libaudio
 ---
-
-Library for manipulation of audio files.
-
-[View source](https://github.com/jamlib/libaudio "View source code for libaudio"){: target="_blank"}
 
 ## ffmpeg
 
