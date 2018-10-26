@@ -1,0 +1,9 @@
+{% for soft in site.software %}
+<hr>
+<h2 style="margin-top: 10px">{{ soft.title }}</h2>
+<p>{{ soft.desc }}</p>
+<p>
+	<a href="{{ soft.title }}" title="Learn more about {{ soft.title }}">Learn more</a> |
+	<a href="{{ soft.src }}" title="View source for {{ soft.title }}" target="_blank">View source</a>
+</p>
+{% endfor %}
