@@ -1,0 +1,32 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: jamlib.org
+email: admin@jamlib.org
+description: >-
+  Community of live music archivists focused on writing free software
+  and curating past performances
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jamlib.org"
+twitter_username:
+github_username: jamlib
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include: ['_pages']
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
