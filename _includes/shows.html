@@ -1,0 +1,6 @@
+{%- for showsByYear in site.data.shows[page.shows] -%}
+  <h3>{{ showsByYear.year }}</h3>
+  {%- for show in showsByYear.shows -%}
+  	<p><a href="{{ show.url }}" target="_blank">{{ show.name }}</a></p>
+  {%- endfor -%}
+{%- endfor -%}
