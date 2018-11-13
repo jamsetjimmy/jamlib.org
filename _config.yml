@@ -8,7 +8,7 @@ email: admin@jamlib.org
 description: >-
   Community of live music archivists focused on writing free software
   and curating past performances
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jamlib.org" # the subpath of your site, e.g. /blog
 url: "https://jamlib.org"
 twitter_username:
 github_username: jamlib
@@ -30,6 +30,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
+  - deploy-gh-pages.sh
 
 collections:
   software:
