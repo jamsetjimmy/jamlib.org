@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jamset Jimmy's Weekly Tour"
+title: "JamLib Weekly Tour"
 author: "Jamset Jimmy"
 date: 2018-11-14
 ---
@@ -10,7 +10,7 @@ date: 2018-11-14
 - **Date:** Friday, November 2, 2018
 - **Location:** One Longfellow Square, Portland, Maine
 
-<audio src="https://archive.org/download/wolf2018-11-02.elam260.sbd.flac/wolf2018-11-02.elam260.sbd.d1t08.mp3" controls></audio>
+<audio src="https://archive.org/download/wolf2018-11-02.elam260.sbd.flac/wolf2018-11-02.elam260.sbd.d1t08.mp3" controls></audio> 
 
 Full Show Link: [https://archive.org/details/wolf2018-11-02.elam260.sbd.flac](https://archive.org/details/wolf2018-11-02.elam260.sbd.flac)
 
